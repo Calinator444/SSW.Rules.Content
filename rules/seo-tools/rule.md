@@ -1,19 +1,19 @@
 ---
-seoDescription: Learn how to effectively use Google Search Console, Google Analytics, and SEMrush to enhance your SEO and digital strategy.
 type: rule
 title: Do you know the best SEO tools?
+seoDescription: Learn how to effectively use Google Search Console, Google
+  Analytics, and SEMrush to enhance your SEO and digital strategy.
 uri: seo-tools
 authors:
   - title: Camilla Rosa Silva
     url: https://www.ssw.com.au/people/camilla-rosa-silva
   - title: Brady Stroud
     url: https://www.ssw.com.au/people/brady-stroud
-created: 2024-07-09T20:21:50.796Z
-guid: 09bd4539-6c37-4233-81dd-e9f0392e2c37
 related:
   - google-search-console-vs-google-analytics
+created: 2024-07-09T20:21:50.796Z
+guid: 09bd4539-6c37-4233-81dd-e9f0392e2c37
 ---
-
 When trying to optimize your website’s performance and visibility, there are a few tools that can help (e.g Google Search Console, Google Analytics, SEMrush). Each offers unique features suited to different aspects of your site's SEO.
 
 SEO is very important to companies, so devs should know the tools they can use to optimize websites, analyze data, and improve search engine rankings.
@@ -41,6 +41,11 @@ An indispensable tool for analyzing website traffic and user behavior, helping y
 * Helps you track site traffic, user behavior, and marketing campaigns
 * Has reporting tools
 
+## CodeAuditor
+
+* Free
+* Provides a list of broken links, which are detrimental to you ranking in Google
+
 ## SEMrush
 
 A comprehensive SEO and SEM tool that offers in-depth keyword research, competitive analysis, and powerful rank tracking capabilities.
@@ -49,6 +54,7 @@ A comprehensive SEO and SEM tool that offers in-depth keyword research, competit
 
 * 💸 Paid tool - [semrush.com/pricing/](https://www.semrush.com/pricing/)
 * Has powerful features:
+
   * SEO - find issues with content
   * Competitive analysis - See how your site compares to competitors
   * Keyword magic tool - Learn what your customers are searching for
