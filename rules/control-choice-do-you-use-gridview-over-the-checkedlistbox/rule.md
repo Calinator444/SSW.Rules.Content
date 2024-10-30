@@ -1,16 +1,17 @@
 ---
-seoDescription: Control choice dilemma - weighing pros and cons of using GridView over CheckedListBox in Windows Forms development.
 type: rule
-archivedreason:
 title: Control Choice - Do you use GridView over the CheckedListBox?
-guid: 4fe1955e-ea0f-47cb-a9c8-26219cb608ba
+seoDescription: Control choice dilemma - weighing pros and cons of using
+  GridView over CheckedListBox in Windows Forms development.
 uri: control-choice-do-you-use-gridview-over-the-checkedlistbox
-created: 2012-11-27T08:43:24.0000000Z
 authors:
   - title: Adam Cogan
     url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects: []
+created: 2012-11-27T08:43:24.000Z
+archivedreason: null
+guid: 4fe1955e-ea0f-47cb-a9c8-26219cb608ba
 ---
 
 In Web we have:
@@ -34,7 +35,7 @@ In Windows Forms we have a CheckedListBox. With a CheckedListBox you cannot:
 :::
 
 In Windows Forms, the code of DataGrid databinding is easier than that of CheckedListBox.
-
+```
 ProductsService.Instance.GetAll(Me.ProductsDataSet1)
 CheckedListBox1.DataSource = Me.ProductsDataSet1.Tables(0)
 CheckedListBox1.ValueMember = "ProductID"
@@ -47,3 +48,4 @@ Figure: 8 lines of code to fill a CheckedListBox
 ProductsService.Instance.GetAll(Me.ProductsDataSet1)
 Figure: One line of code to fill a DataGrid
 But the CheckedListBox is useful if only one field needs displaying.
+```
