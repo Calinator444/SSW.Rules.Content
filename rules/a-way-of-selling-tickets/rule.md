@@ -1,7 +1,7 @@
 ---
 seoDescription: Effortlessly manage ticket sales and events with EventBrite, a comprehensive platform for selling, refunding, marketing, and more.
 type: rule
-title: Sales - Do you have a way of selling tickets?
+title:Sales - Do you have a way of selling tickets?
 uri: a-way-of-selling-tickets
 authors:
   - title: Camilla Rosa Silva
