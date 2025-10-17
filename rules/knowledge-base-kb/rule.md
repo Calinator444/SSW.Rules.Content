@@ -1,11 +1,9 @@
 ---
-seoDescription: Share consistent, reusable support answers by linking to your Knowledge Base instead of retyping replies.
 type: rule
-archivedreason:
 title: Do you give support answers via Knowledge Base links?
-guid: be630745-f956-4c85-a521-5c8b210f93fe
+seoDescription: Share consistent, reusable support answers by linking to your
+  Knowledge Base instead of retyping replies.
 uri: knowledge-base-kb
-created: 2009-03-02T02:45:54.0000000Z
 authors:
   - title: Adam Cogan
     url: https://ssw.com.au/people/adam-cogan
@@ -14,14 +12,17 @@ authors:
   - title: Jeoffrey Fischer
     url: https://ssw.com.au/people/jeoffrey-fischer
 related:
- - follow-boy-scout-rule
- - awesome-documentation
- - use-readme-templates
- - awesome-readme
- - support-send-links
+  - follow-boy-scout-rule
+  - awesome-documentation
+  - use-readme-templates
+  - awesome-readme
+  - support-send-links
 redirects:
   - do-you-have-a-knowledge-base-(kb)
   - do-you-have-a-knowledge-base-kb
+created: 2009-03-02T02:45:54.000Z
+archivedreason: null
+guid: be630745-f956-4c85-a521-5c8b210f93fe
 ---
 
 Established projects typically include several layers of documentation, collectively known as a **Knowledge Base (KB)**:
@@ -33,7 +34,7 @@ Established projects typically include several layers of documentation, collecti
 
 <!--endintro-->
 
-For example, one of the most useful feature on Microsoft website is their [knowledge base](https://support.microsoft.com/).
+For example, one of the most useful features on Microsoft's website is their [knowledge base](https://support.microsoft.com/).
 
 When a problem arises, documentation should be your first port of call as it allows you to help yourself.
 
