@@ -1,7 +1,9 @@
 ---
-seoDescription: Mastering document naming conventions is crucial for effective SharePoint search and file discovery. Use descriptive words and kebab-case (hyphens) to make your files easily searchable.
 type: rule
 title: Do you know how to name documents/files?
+seoDescription: Mastering document naming conventions is crucial for effective
+  SharePoint search and file discovery. Use descriptive words and kebab-case
+  (hyphens) to make your files easily searchable.
 uri: how-to-name-documents
 authors:
   - title: Adam Cogan
@@ -22,7 +24,6 @@ created: 2019-02-26T01:04:10.000Z
 archivedreason: null
 guid: fd6b589b-9f74-4d95-bc4f-b90b4c349c31
 ---
-
 When naming documents and images, use **descriptive words** and **kebab-case** (where you separate words with hyphens) to make your files more easily discoverable.
 
 <!--endintro-->
@@ -105,13 +106,11 @@ Figure: Good Example - File name uses kebab-case (dashes to separate words)
 A hyphen (or dash) is the best choice, because it is understood both by humans and all versions of SharePoint search.
 
 :::info
-You may use Uppercase in the first letter in Kebab-Case, however it's important to keep consistency.
+You may use Uppercase in the first letter in Kebab-Case, however it's important to remain consistent.
 :::
 
 ## Extra
 
 * **Never use capitalized letters in file extensions** - It can lead to compatibility issues and potential confusion across different operating systems and platforms. For example, saving an image as "image.JPG" instead of "image.jpg" might result in it not displaying correctly on certain platforms or being misinterpreted by software that is case-sensitive. Always use lowercase for consistency and reliability.
-
 * **Ensure file names are unique** - Within a team, there may be a mix of operating systems being used by its members. For users on MacOS or other OS's that have case-sensitive filenames, it's crucial to ensure that filenames are unique. For example, don't use 'File.txt' if 'file.txt' already exists. This is especially important if these files are being tracked with Git, as it can cause issues for users on Windows, which has case-insensitive filenames.
-
 * **Add relevant metadata where possible** - If a document library is configured with metadata fields, add as much relevant information as you can. Metadata is more highly regarded by search than the contents within documents, so by adding relevant terms to a documents metadata, you will almost certainly have a positive effect on the relevance of search results.
